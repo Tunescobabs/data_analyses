@@ -4,7 +4,7 @@
 
 
 
-The data was gotten from kaggle and it was taking though the entire Eploratory Data Analysis process while asking relevant questions which are necessary for predicting whether or not a patient will show up for their medical appointments.
+The data was gotten from kaggle and it was taken though the entire Eploratory Data Analysis process while asking relevant questions which are necessary for predicting whether or not a patient will show up for their medical appointments.
 
 
 ```python
