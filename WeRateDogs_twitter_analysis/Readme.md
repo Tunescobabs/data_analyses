@@ -1,6 +1,6 @@
 # Wrangling Data - Archived Tweets from WeRateDogs
 
-For this project we were tasked with wrangling archived tweet data from the WeRateDogs Twitter account. To this end we were provided with the archived tweet data as a CSV file and given the additional assignment of gathering extra data to supplement the tweet data. This report briefly describes what was done as well as the challenges encountered at each step of the data wrangling process.
+For this project I was tasked with wrangling archived tweet data from the WeRateDogs Twitter account. To this end we were provided with the archived tweet data as a CSV file and given the additional assignment of gathering extra data to supplement the tweet data. This report briefly describes what was done as well as the challenges encountered at each step of the data wrangling process.
 
 ## Gather
 As part of the project requirements, two pieces of supplementary data were gathered from different sources. The first piece of data was the prediction results from a machine learning algorithm trained on the images from a sample of the archived tweet data. This data was the most straightforward of the two pieces of data to retrive since it was a simple matter of fetching the file containing the image prediction results from the provided link and saving it to the current working directory.
